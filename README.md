@@ -30,7 +30,7 @@ const {
   updateAuth,
   linkauth,
   getTableRows,
-  transfer,
+  transfer,rodel mendoza yumul 
   TESTING_PUBLIC_KEY,
   genericAction,
   dedupeTapos,
